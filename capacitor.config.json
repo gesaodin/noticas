@@ -1,0 +1,6 @@
+{
+  "appId": "com.noticias.vzla.app",
+  "appName": "noticias vzla",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}

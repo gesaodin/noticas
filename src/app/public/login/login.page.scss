@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+
+.firstPageCss {          
+    background : #86AED6;
+    //background-image: url('../../../assets/IMG.png') ;
+    background-size: 600px;
+    background-attachment: scroll; 
+    background-position: bottom; 
+    background-repeat: no-repeat; 
+}
+.secondPageCss{
+    background : #86D6B8;
+   
+}
+ion-avatar {
+    width: 150px;
+    height: 150px;
+}   
+
+ion-input{
+    width: 100%;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 10px;
+    margin-bottom: 10px;  
+}
+#container {
+    width: 95%;
+    background: #FFF;
+    border-radius: 10px;
+    margin-bottom: 10px; 
+}
+.circle{
+    vertical-align: middle;
+    border-radius:100%; 
+    background-color:#FFF; 
+    width:44px;
+    height:44px;
+    padding:2px;
+}
+
+p{
+    font-family: 'Roboto';  
+    font-size: 13px;
+    color: #FFF;
+}
+
+h1{
+    font-family: 'Roboto'; 
+    font-size: 18px;
+    text-align: center;
+    color: #FFF;
+}
+
+h2{
+    font-family: 'Roboto'; 
+    font-size: 16px;
+    text-align: center;
+    color: #FFF;
+}

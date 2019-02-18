@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">noticias vzla</string>
+    <string name="title_activity_main">noticias vzla</string>
+    <string name="package_name">com.noticias.vzla.app</string>
+    <string name="fileprovider_authority">com.noticias.vzla.app.fileprovider</string>
+    <string name="custom_url_scheme">com.noticias.vzla.app</string>
+</resources>

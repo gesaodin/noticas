@@ -1,0 +1,7 @@
+{
+  "name": "noticas-vzla",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

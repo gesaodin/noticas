@@ -1,0 +1,27 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-button>
+        <ion-back-button defaultHref="/login"></ion-back-button>
+      </ion-button>
+    </ion-buttons>
+  
+  
+    <ion-title>Registrarse</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content padding>
+  <div text-center>
+      <img src="/assets/cepa.png" width="120px">
+  </div>
+  <ion-list>
+    <ion-item>        
+        <ion-input required type="text"  placeholder="Usuario" round></ion-input> 
+      </ion-item>
+      <ion-item round>
+        <ion-input type="password"  placeholder="Clave" round></ion-input> 
+      </ion-item>   
+  </ion-list>
+  <ion-button expand="block" color="success" (click)="register()">Registrar</ion-button>
+</ion-content>
